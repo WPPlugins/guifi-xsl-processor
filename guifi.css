@@ -1,0 +1,15 @@
+/*GUIFI*/
+#guifi{}
+#guifi .maplabel a{text-decoration:none}
+#guifi li.unactive{color:#CCCCCC}
+#guifi span.status{font-size:smaller}
+#guifi span.unactive{color:#990000}
+#guifi span.active{color:#336600; font-weight:bold}
+#guifi .maplabel{border:solid 1px; margin-top:-1px; float:left; width:32%}
+#guifi .maplabel img{margin:0 0 3px 3px}
+#guifi .services{height:18px;}
+#guifi .srvfilter{width:32%; float:left}
+/*
+#guifi #map{width:580px; height:420px; border:solid 1px;}
+#guifi #side_bar{clear:both; width:580px; height:300px; border:solid 1px;}
+*/
